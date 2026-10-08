@@ -60,3 +60,16 @@
     display: block;
     margin: 20px 0;
 }
+
+/* media queries */
+@media (max-width: 800px){
+            .Contact{
+                display: block;
+
+            }
+
+            .contact-col{
+                padding: 20px;
+            }
+
+}

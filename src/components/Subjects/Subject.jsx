@@ -9,7 +9,7 @@ import topicicon  from '../../media/imptopic-icon.png'
 
 const Subject = () => {
     return (
-        <div className='programs'>
+        <div className='programs Subject'>
             
             <div className="program">
                 <img src={syllabus} alt="" />

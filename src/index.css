@@ -46,3 +46,19 @@ a{
     background: #212ea0;
     color: white;
 }
+
+/* responsive  */
+
+@media (max-width: 1400px){
+
+        .container{
+            padding-left: 5%;
+            padding-right: 5%;
+
+        }
+
+        .btn{
+            padding: 14px 22px;
+            
+        }
+}
